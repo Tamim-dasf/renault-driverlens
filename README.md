@@ -50,5 +50,4 @@ Only public comments are used. @mentions are removed and no author name is store
 
 MetaMind: Zhang, X. et al. (2025). Language model: Google Gemini.
 
-Authors: [Your Name 1], [Your Name 2]
 
